@@ -1,6 +1,6 @@
 # Atividades Práticas
 
-## 📝 Atividade 1 — Prefixos e Sufixos
+## Atividade 1 — Prefixos e Sufixos
 
 Considere a palavra:
 
@@ -28,7 +28,7 @@ Liste os prefixos e sufixos.
 
 ---
 
-## 📝 Atividade 2 — Gramática
+## Atividade 2 — Gramática
 
 Considere:
 
