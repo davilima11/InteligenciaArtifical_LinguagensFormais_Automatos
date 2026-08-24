@@ -20,7 +20,7 @@
 
 ## Bloco 3 — `S → aA | A → b`
 
-**Regular (Tipo 3).** Cada produção tem no máximo uma variável, sempre à direita dos terminais — padrão linear à direita típico do Tipo 3.
+**Regular (Tipo 3).** Cada produção tem no máximo uma variável, sempre à direita dos terminais.
 
 ---
 
