@@ -3,7 +3,7 @@
 ## 1. Alfabeto - Considere: Σ = a, b, c
 
 1. Quantos símbolos existem no alfabeto?
-   **3 símbolos**
+  **3 símbolos**
 
 2. Quais são os símbolos?
    **a, b, c**
@@ -53,10 +53,10 @@ Determine se cada palavra pertence à linguagem:
 
 ## 5. Descrevendo uma linguagem por padrão - Considere: L = bⁿ | n ≥ 1
 
-1. Escreva as cinco primeiras palavras.
+1. Escreva as cinco primeiras palavras: 
    **`b, bb, bbb, bbbb, bbbbb`**
 
-2. Explique o significado de `bⁿ`.
+2. Explique o significado de `bⁿ`:
    **Representa n ocorrências seguidas do símbolo `b`.**
 
 3. A palavra `bbbbbb` pertence à linguagem?
@@ -69,7 +69,7 @@ Determine se cada palavra pertence à linguagem:
 
 Explique, com suas próprias palavras, a diferença entre L = ∅ e L = {ε}.
 
-∅ é um conjunto que não possui nenhum elemento — a linguagem não tem palavra alguma. {ε} é um conjunto que possui exatamente uma palavra, e essa palavra é a palavra vazia.
+∅ é um conjunto que não possui nenhum elemento, a linguagem não tem palavra alguma. {ε} é um conjunto que possui exatamente uma palavra, e essa palavra é a palavra vazia.
 
 1. Qual delas possui uma palavra?
    L = {ε}
@@ -85,13 +85,13 @@ Explique, com suas próprias palavras, a diferença entre L = ∅ e L = {ε}.
 Identifique:
 
 1. O conjunto de variáveis.
-   **`V = {S, A}`**
+   **`V = S, A`**
 
 2. O conjunto de terminais.
-   **`T = {0, 1}`**
+   **`T = 0, 1`**
 
 3. O conjunto de produções.
-   **`P = {S→0A, A→1}`**
+   **`P = S→0A, A→1`**
 
 4. O símbolo inicial.
    **`S`**
@@ -135,7 +135,6 @@ Determine se cada palavra pode ser gerada (apresentando a derivação quando pos
 ---
 ## Checklist de estudo
 
-- [x] Explicar o que é um alfabeto.
 - [x] Identificar os símbolos de um alfabeto.
 - [x] Diferenciar símbolo de palavra.
 - [x] Explicar o que é uma linguagem.
