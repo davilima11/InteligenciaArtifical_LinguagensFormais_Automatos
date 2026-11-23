@@ -2,7 +2,7 @@
 
 Trabalho da disciplina de Inteligência Artificial e LFA, com a Profa. Kadidja Valéria.
 
-Grupo: Davi Vieira Lima, Fernanda Barbosa Ramos, Samuel Azevedo Da Silva e Arthur Borges 40900509.
+Grupo: Davi Vieira Lima, Fernanda Barbosa Ramos, Samuel Azevedo Da Silva 40025152 e Arthur Borges 40900509.
 
 Google Colab: https://colab.research.google.com/drive/1xH-jnab7s3wwlnoLsnepeWYVOfpTYVJ8?usp=sharing
 
